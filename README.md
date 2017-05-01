@@ -1,2 +1,2 @@
-# VirtualMachine
-VirtualMachine in C
+# VirtualMachineC
+A simple virtual machine in C
